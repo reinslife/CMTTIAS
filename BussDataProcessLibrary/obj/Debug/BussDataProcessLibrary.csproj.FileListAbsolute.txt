@@ -1,0 +1,10 @@
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\bin\Debug\BussDataProcessLibrary.dll
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\bin\Debug\BussDataProcessLibrary.pdb
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\obj\Debug\BussDataProcessLibrary.csprojAssemblyReference.cache
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\obj\Debug\BussDataProcessLibrary.csproj.CoreCompileInputs.cache
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\obj\Debug\BussDataProcessLibrary.dll
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\obj\Debug\BussDataProcessLibrary.pdb
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\bin\Debug\BaseDataProcessLibrary.dll
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\bin\Debug\BaseDataProcessLibrary.pdb
+D:\ItemCodes\CMTTIAS\BussDataProcessLibrary\obj\Debug\BussDataProcessLibrary.csproj.CopyComplete

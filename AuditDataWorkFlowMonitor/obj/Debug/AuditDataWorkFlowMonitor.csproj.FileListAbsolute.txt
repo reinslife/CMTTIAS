@@ -1,0 +1,15 @@
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\bin\Debug\AuditDataWorkFlowMonitor.exe
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\bin\Debug\AuditDataWorkFlowMonitor.pdb
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.csprojAssemblyReference.cache
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.FrmWorkFlowMonitor.resources
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.Properties.Resources.resources
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.csproj.GenerateResource.cache
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.csproj.CoreCompileInputs.cache
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.csproj.CopyComplete
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.exe
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.pdb
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\obj\Debug\AuditDataWorkFlowMonitor.FrmDisplayScreen.resources
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\bin\Debug\BaseDataProcessLibrary.pdb
+D:\ItemCodes\CMTTIAS\AuditDataWorkFlowMonitor\bin\Debug\BaseDataProcessLibrary.dll

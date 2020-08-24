@@ -1,0 +1,8 @@
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\bin\Debug\BaseDataProcessLib.dll
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\bin\Debug\BaseDataProcessLib.pdb
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\obj\Debug\BaseDataProcessLib.csprojAssemblyReference.cache
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\obj\Debug\BaseDataProcessLib.csproj.CoreCompileInputs.cache
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\obj\Debug\BaseDataProcessLib.csproj.CopyComplete
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\obj\Debug\BaseDataProcessLib.dll
+D:\ItemCodes\CMTTIAS\BaseDataProcessLibrary\obj\Debug\BaseDataProcessLib.pdb

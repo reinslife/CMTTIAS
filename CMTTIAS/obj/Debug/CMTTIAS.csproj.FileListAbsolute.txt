@@ -1,0 +1,8 @@
+D:\ItemCodes\CMTTIAS\CMTTIAS\bin\Debug\CMTTIAS.exe
+D:\ItemCodes\CMTTIAS\CMTTIAS\bin\Debug\CMTTIAS.pdb
+D:\ItemCodes\CMTTIAS\CMTTIAS\obj\Debug\CMTTIAS.csprojAssemblyReference.cache
+D:\ItemCodes\CMTTIAS\CMTTIAS\obj\Debug\CMTTIAS.Properties.Resources.resources
+D:\ItemCodes\CMTTIAS\CMTTIAS\obj\Debug\CMTTIAS.csproj.GenerateResource.cache
+D:\ItemCodes\CMTTIAS\CMTTIAS\obj\Debug\CMTTIAS.csproj.CoreCompileInputs.cache
+D:\ItemCodes\CMTTIAS\CMTTIAS\obj\Debug\CMTTIAS.exe
+D:\ItemCodes\CMTTIAS\CMTTIAS\obj\Debug\CMTTIAS.pdb

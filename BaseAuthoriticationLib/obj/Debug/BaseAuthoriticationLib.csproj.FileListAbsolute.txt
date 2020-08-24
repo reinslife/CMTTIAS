@@ -1,0 +1,14 @@
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\bin\Debug\BaseAuthoriticationLib.dll
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\bin\Debug\BaseAuthoriticationLib.pdb
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.csprojAssemblyReference.cache
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.csproj.CoreCompileInputs.cache
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.dll
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.pdb
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.FrmUserManage.resources
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.csproj.GenerateResource.cache
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.FrmAuthorityManage.resources
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.FrmChangePwd.resources
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.FrmLogin.resources
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.FrmRoleManage.resources
+D:\ItemCodes\CMTTIAS\BaseAuthoriticationLib\obj\Debug\BaseAuthoriticationLib.csproj.CopyComplete
